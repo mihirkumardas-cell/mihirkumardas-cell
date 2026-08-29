@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Hi%20There,%20I'm%20Mihir%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=B.Tech%20CSE%20Student%20|%20AI/ML%20%26%20GenAI%20Builder&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Hi%20There%2C%20I%27m%20Mihir&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=B.Tech%20CSE%20Student%20%7C%20AI/ML%20%26%20GenAI%20Builder&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2A9DF4&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=B.Tech+CSE+%40+DRIEMS+University;AI%2FML+%26+Generative+AI+Developer;Building+RAG+Pipelines%2C+Agents+%26+LLM+Apps;Python+%7C+FastAPI+%7C+LangChain+%7C+Django+%7C+Flask" alt="Typing SVG" />
@@ -49,7 +49,7 @@ Hey, I'm **Mihir** 👋 — a B.Tech CSE student at **DRIEMS University, Odisha*
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-FFD21E?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-4285F4?style=for-the-badge)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
@@ -197,13 +197,6 @@ Experimental LSTM model exploring sequence-based prediction on Valorant gameplay
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mihirkumardas-cell&theme=tokyo-night&hide_border=true" width="90%"/>
-</div>
-
-<br/>
-
-<!-- Snake animation - requires a one-time GitHub Action setup (Platane/snk), see note in chat -->
-<div align="center">
-<img src="https://raw.githubusercontent.com/mihirkumardas-cell/mihirkumardas-cell/output/github-contribution-grid-snake.svg" width="90%"/>
 </div>
 
 <br/>
