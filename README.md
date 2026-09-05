@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Hi%20There%2C%20I%27m%20Mihir&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=B.Tech%20CSE%20Student%20%7C%20AI/ML%20%26%20GenAI%20Builder&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Hi%20There%2C%20I%27m%20Mihir&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=B.Tech%20CSE%20Student%20%7C%20AI%20%26%20ML%20%2B%20GenAI%20Builder&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2A9DF4&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=B.Tech+CSE+%40+DRIEMS+University;AI%2FML+%26+Generative+AI+Developer;Building+RAG+Pipelines%2C+Agents+%26+LLM+Apps;FastAPI+%7C+LangChain+%7C+PostGIS+%7C+Docker" alt="Typing SVG" />
@@ -46,6 +46,10 @@ Hey, I'm **Mihir** 👋 — a B.Tech CSE student at **DRIEMS University, Odisha*
 
 > *"Hard work is worthless for those that don't believe in themselves."*
 > — **Naruto Uzumaki**, *Naruto*
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="360"/>
+</div>
 
 <br/>
 
@@ -210,8 +214,6 @@ Experimental LSTM model exploring sequence-based prediction on Valorant gameplay
 
 </div>
 
-> ⚠️ This image only renders **after** the GitHub Action below has run once and pushed to an `output` branch — see the setup steps I've sent alongside this file.
-
 <br/>
 
 ## 📊 GitHub Stats
@@ -221,16 +223,6 @@ Experimental LSTM model exploring sequence-based prediction on Valorant gameplay
 <img src="https://streak-stats.demolab.com/?user=mihirkumardas-cell&theme=tokyonight&hide_border=true" width="48%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihirkumardas-cell&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 🏆 Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=mihirkumardas-cell&theme=tokyonight&no-frame=true&row=1&column=7" width="100%"/>
 
 </div>
 
@@ -246,14 +238,6 @@ Experimental LSTM model exploring sequence-based prediction on Valorant gameplay
 | ✅ Data Analytics Certification — ESDP (CTTC, MSME) | — |
 | ✅ Generative AI Certification — CTTC (Ministry of MSME, Govt. of India) | — |
 | 💼 AI Intern — Pinnacle Labs (Remote) | Apr–May 2026 |
-
-<br/>
-
-## 📈 Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mihirkumardas-cell&theme=tokyo-night&hide_border=true" width="90%"/>
-</div>
 
 <br/>
 
