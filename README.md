@@ -8,17 +8,15 @@
 
 <br/>
 
+<img src="50.gif" align="right" width="120" alt="LeetCode 50 Days Badge"/>
+
 <a href="https://linkedin.com/in/mihir-kumar-das"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:mihirkkumardas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://portfolio-mihirr.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://github.com/mihirkumardas-cell"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
 <br/><br/>
-
 <img src="https://komarev.com/ghpvc/?username=mihirkumardas-cell&label=Profile%20Views&color=2a5298&style=flat" alt="profile views"/>
-
 </div>
-
 <br/>
 
 ## 📌 Quick Nav
